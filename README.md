@@ -26,7 +26,7 @@ docker compose stop <service name>
 
 
 Error:
-The error below was generated:
+
 
 Warning: require(/var/www/html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/public/index.php on line 24
 
